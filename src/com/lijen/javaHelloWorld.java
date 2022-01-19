@@ -1,0 +1,6 @@
+package com.lijen;
+class Hello {
+  public static void main(String[] args){
+    System.out.println("HelloWorld");
+  }
+}
