@@ -134,4 +134,10 @@ class Person{
 		}
 		return false;
 	}
+	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return "Person[name = " + name + ",age = " + age + "]";
+	}
 }
