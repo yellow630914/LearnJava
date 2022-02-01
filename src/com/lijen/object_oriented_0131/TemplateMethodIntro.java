@@ -1,6 +1,5 @@
 package com.lijen.object_oriented_0131;
 
-import java.util.Iterator;
 
 /*
  * 模板方法設計模式(TemplateMethod)
